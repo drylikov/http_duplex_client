@@ -1,6 +1,6 @@
-# http-duplex-client
+# Http_Duplex_Client
 
-Duplex API for making an HTTP request (write the req, read the response)
+Duplex API for making an HTTP request (write the req, read the response).
 
 ## Usage
 
